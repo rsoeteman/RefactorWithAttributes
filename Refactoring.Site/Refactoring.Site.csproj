@@ -11,4 +11,8 @@
       <ProjectReference Include="..\Refactoring.Core\Refactoring.Core.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Umbraco.Cms" Version="13.1.1" />
+    </ItemGroup>
+
 </Project>
