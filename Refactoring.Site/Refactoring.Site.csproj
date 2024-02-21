@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Refactoring.Business\Refactoring.Business.csproj" />
     <ProjectReference Include="..\Refactoring.Core\Refactoring.Core.csproj" />
+    <ProjectReference Include="..\Refactoring.Business\Refactoring.Business.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
